@@ -13,6 +13,6 @@
         }
     },
     "require": {
-        "yijie/foundation-sdk": "^2.0"
+        "yijie/foundation-sdk": "^4.0"
     }
 }
