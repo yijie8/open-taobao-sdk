@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Hanson\Taobao;
+namespace Yijie\Taobao;
 
 
-use Hanson\Foundation\Foundation;
+use Yijie\Foundation\Foundation;
 
 class Taobao extends Foundation
 {

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Hanson\Taobao;
+namespace Yijie\Taobao;
 
 
-use Hanson\Foundation\AbstractAPI;
+use Yijie\Foundation\AbstractAPI;
 
 class Api extends AbstractAPI
 {

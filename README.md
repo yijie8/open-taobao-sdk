@@ -4,7 +4,7 @@
 ## 安装
 
 ```
-composer require hanson/open-taobao-sdk:dev-master -vvv
+composer require yijie/open-taobao-sdk:dev-master -vvv
 ```
 
 ### 使用
@@ -14,7 +14,7 @@ composer require hanson/open-taobao-sdk:dev-master -vvv
 
 include __DIR__.'/../vendor/autoload.php';
 
-$taobao = new \Hanson\Taobao\Taobao(['key' => 'your-key', 'secret' => 'your-secret']);
+$taobao = new \Yijie\Taobao\Taobao(['key' => 'your-key', 'secret' => 'your-secret']);
 
 // 使用如下
 $taobao->request('method', $params);

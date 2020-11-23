@@ -1,18 +1,18 @@
 {
-    "name": "hanson/open-taobao-sdk",
+    "name": "yijie/open-taobao-sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Hanson",
-            "email": "h@hanc.cc"
+            "name": "Yijie",
+            "email": "1@tta.cn"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Hanson\\Taobao\\": "src/"
+            "Yijie\\Taobao\\": "src/"
         }
     },
     "require": {
-        "hanson/foundation-sdk": "^2.0"
+        "yijie/foundation-sdk": "^2.0"
     }
 }
